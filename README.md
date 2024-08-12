@@ -1,16 +1,18 @@
 ### Hi there 👋
+My name's Tanvir, a software developer with interests in web dev and game dev!
 
-<!--
-**Taanviir/Taanviir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am skilled in multiple languages of different paradigms and have knowledge of system administration through my continued learning at school 42.
+Through my dedicated time at school 42 I've learned to take on challenging projects and learning things from scratch by myself.
 
-Here are some ideas to get you started:
+Do feel free to explore my repositories and reach out if you're interested in learning more about my projects or even collaborating!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Programming Languages
+![languages](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript&perline=)
+
+## Tools & Frameworks
+![tools](https://skillicons.dev/icons?i=git,github,docker,nginx,bash,vim,vscode,neovim,figma,bootstrap,django,photoshop&perline=)
+
+## Operating Systems
+![os](https://skillicons.dev/icons?i=ubuntu,debian,alpine,windows,apple&perline=)
