@@ -15,4 +15,4 @@ Do feel free to explore my repositories and reach out if you're interested in le
 ![tools](https://skillicons.dev/icons?i=git,github,docker,nginx,bash,vim,vscode,neovim,figma,bootstrap,django,photoshop&perline=)
 
 ## Operating Systems
-![os](https://skillicons.dev/icons?i=ubuntu,debian,alpine,windows,apple&perline=)
+![os](https://skillicons.dev/icons?i=ubuntu,debian,windows,apple&perline=)
